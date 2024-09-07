@@ -1,0 +1,39 @@
+/* src/components/QuestionsPage.css */
+.questions-page {
+  position: relative;
+  user-select: none; /* Prevent text selection */
+  -webkit-user-select: none; /* Prevent text selection on Safari */
+  -moz-user-select: none; /* Prevent text selection on Firefox */
+  -ms-user-select: none; /* Prevent text selection on IE/Edge */
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8); /* Dark overlay */
+  z-index: 999; /* Ensure it covers the content */
+  pointer-events: none; /* Allow clicking through overlay */
+  display: none; /* Hide initially */
+}
+
+/* Show overlay on large screens */
+@media (min-width: 768px) {
+  .overlay {
+    display: block; /* Show overlay on larger screens */
+  }
+}
+
+.question {
+  margin-bottom: 20px;
+}
+
+.option {
+  padding: 5px;
+}
+
+.option.correct {
+  background-color: #d4edda;
+}
