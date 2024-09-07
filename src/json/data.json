@@ -10,7 +10,7 @@
         "D": "Entrepreneur",
         "E": "Enterpreneurship"
       },
-      "answer": "A"
+      "answer": "C"
     },
     {
       "number": 2,
@@ -46,7 +46,7 @@
         "D": "Peraturan perundang-undangan",
         "E": "Konsumen"
       },
-      "answer": "E"
+      "answer": "A"
     },
     {
       "number": 5,
@@ -82,7 +82,7 @@
         "D": "Orientasi Karyawan",
         "E": "Teori Keatribusi"
       },
-      "answer": "C"
+      "answer": "B"
     },
     {
       "number": 8,
@@ -94,7 +94,7 @@
         "D": "Bekerja",
         "E": "Karyawan"
       },
-      "answer": "A"
+      "answer": "B"
     },
     {
       "number": 9,
@@ -106,7 +106,7 @@
         "D": "Perusahaan Perseorangan Berizin",
         "E": "Perseroan Terbatas"
       },
-      "answer": "B"
+      "answer": "C"
     },
     {
       "number": 10,
@@ -130,7 +130,7 @@
         "D": "Desain Produk",
         "E": "Strategi"
       },
-      "answer": "A"
+      "answer": "B"
     },
     {
       "number": 12,
@@ -142,7 +142,7 @@
         "D": "Akhir",
         "E": "Artefak"
       },
-      "answer": "B"
+      "answer": "D"
     },
     {
       "number": 13,
@@ -166,7 +166,7 @@
         "D": "Logika",
         "E": "Budaya"
       },
-      "answer": "A"
+      "answer": "B"
     },
     {
       "number": 15,
@@ -178,7 +178,7 @@
         "D": "Manajemen Operasi",
         "E": "Manajemen Akuntansi"
       },
-      "answer": "D"
+      "answer": "A"
     }
   ]
 }
