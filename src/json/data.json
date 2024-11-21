@@ -2,181 +2,421 @@
   "questions": [
     {
       "number": 1,
-      "question": "Orang-orang yang bersifat agresif dalam melakukan percobaan dan tertarik pada kemungkinan peluang",
+      "question": "Mengembangkan nilai-nilai luhur serta budaya lokal adalah:",
       "options": {
-        "A": "Initiative entrepreneur",
-        "B": "Fabian entrepreneur",
-        "C": "Innovating entrepreneur",
-        "D": "Entrepreneur",
-        "E": "Enterpreneurship"
-      },
-      "answer": "C"
-    },
-    {
-      "number": 2,
-      "question": "Proses monitoring terhadap berbagai aktivitas yang dilakukan sumber daya organisasi untuk memastikan bahwa tersebut akan dapat mencapai tujuan yang telah ditetapkan dan tindakan koreksi dapat untuk memperbaiki disebut",
-      "options": {
-        "A": "Controlling",
-        "B": "Organizing",
-        "C": "Actuating",
-        "D": "Evaluating",
-        "E": "Planning"
-      },
-      "answer": "A"
-    },
-    {
-      "number": 3,
-      "question": "Penanaman modal perusahaan pada aktiva riil maupun aktiva finansial disebut",
-      "options": {
-        "A": "Pemodalan",
-        "B": "Investasi",
-        "C": "Hutang",
-        "D": "Piutang",
-        "E": "Semua salah"
+        "A": "Salah dalam mengembangkan budaya organisasi yang modern.",
+        "B": "Dibutuhkan dalam mengembangkan budaya organisasi yang modern.",
+        "C": "Tindakan sia-sia dalam mengembangkan budaya organisasi yang modern.",
+        "D": "Semua jawaban salah",
+        "E": "Semua jawaban benar"
       },
       "answer": "B"
     },
     {
-      "number": 4,
-      "question": "Dibawah ini merupakan peran pemerintah dalam lingkungan umum perusahaan, kecuali",
+      "number": 2,
+      "question": "Manfaat birokrasi adalah:",
       "options": {
-        "A": "CSR",
-        "B": "Subsidi",
-        "C": "Pajak",
-        "D": "Peraturan perundang-undangan",
-        "E": "Konsumen"
+        "A": "Kerja menjadi cepat",
+        "B": "Pembagian kerja yang jelas",
+        "C": "Profesional",
+        "D": "Jawaban b dan c yang benar",
+        "E": "Semua jawaban benar"
+      },
+      "answer": "D"
+    },
+    {
+      "number": 3,
+      "question": "Perubahan organisasi dikarenakan:",
+      "options": {
+        "A": "Perubahan lingkungan",
+        "B": "Perubahan tujuan dan sasaran",
+        "C": "Perubahan undang-undang",
+        "D": "Semua jawaban benar",
+        "E": "Semua jawaban salah"
+      },
+      "answer": "D"
+    },
+    {
+      "number": 4,
+      "question": "Kepemimpinan yang baik mencerminkan:",
+      "options": {
+        "A": "Kinerja organisasi yang baik.",
+        "B": "Tidak menunjukkan kinerja organisasi",
+        "C": "Terjadinya konflik dalam organisasi",
+        "D": "Semua jawaban benar",
+        "E": "Semua jawaban salah"
       },
       "answer": "A"
     },
     {
       "number": 5,
-      "question": "Join Venture merupakan contoh bentuk dari aktivitas bisnis internasional dari",
+      "question": "Organisasi dalam memandang dinamika kelompok adalah:",
       "options": {
-        "A": "Ekspor",
-        "B": "FDI",
-        "C": "Waralaba",
-        "D": "Licensing",
-        "E": "Pemasaran Multinasional"
-      },
-      "answer": "B"
-    },
-    {
-      "number": 6,
-      "question": "Seluruh kegiatan yang diatur oleh orang-orang yang berkecimpung dalam bidang penjualan dan industri yang menyediakan suatu barang dan jasa sebagai kebutuhan untuk mempertahankan dan memperbaiki standart dan serta kualitas hidup mereka, disebut...",
-      "options": {
-        "A": "Bisnis",
-        "B": "Produksi",
-        "C": "Manufaktur",
-        "D": "Memperoleh Profit",
-        "E": "Berdagang"
-      },
-      "answer": "A"
-    },
-    {
-      "number": 7,
-      "question": "Perilaku pimpinan yang menekankan bahwa tugas-tugas dilaksanakan dengan baik dengan cara mengarahkan dan mengendalikan secara ketat bawahannya. Merupakan konsep dari",
-      "options": {
-        "A": "Teori Sifat",
-        "B": "Teori Perilaku",
-        "C": "Orientasi Tugas",
-        "D": "Orientasi Karyawan",
-        "E": "Teori Keatribusi"
-      },
-      "answer": "B"
-    },
-    {
-      "number": 8,
-      "question": "Penciptaan sesuatu yang baru (Kreasi) dan membuat sesuatu yang berbeda dari yang sudah ada disebut",
-      "options": {
-        "A": "Wirausaha",
-        "B": "Kewirausahaan",
-        "C": "Wiraswasta",
-        "D": "Bekerja",
-        "E": "Karyawan"
-      },
-      "answer": "B"
-    },
-    {
-      "number": 9,
-      "question": "Penjual Siomay, Penjual Sayur, dan pedagang kaki lima lainnya termasuk dalam jenis perusahaan",
-      "options": {
-        "A": "Perusahaan Persekutuan namun tidak berbadan hukum",
-        "B": "Perusahaan Perseorangan",
-        "C": "Usaha Perorangan yang Tidak Memiliki Izin",
-        "D": "Perusahaan Perseorangan Berizin",
-        "E": "Perseroan Terbatas"
+        "A": "Dinamika kelompok berbahaya",
+        "B": "Dinamika kelompok merugikan",
+        "C": "Dinamika kelompok wajar",
+        "D": "Semua jawaban benar",
+        "E": "Semua jawaban salah"
       },
       "answer": "C"
     },
     {
-      "number": 10,
-      "question": "Perusahaan yang memproduksi kain membeli printer untuk digunakan dalam kegiatan administrasi, maka perusahaan ini bertindak sebagai",
+      "number": 6,
+      "question": "Golongan dari individu yang berinteraksi tetapi tujuan dan harapan berbeda disebut:",
       "options": {
-        "A": "Original Equipment Manufacturer",
-        "B": "Produsen",
-        "C": "Distributor",
-        "D": "Pengguna Produk (User)",
-        "E": "Resellers"
+        "A": "Gabungan",
+        "B": "Kelompok",
+        "C": "Organisasi",
+        "D": "Jawaban b dan c salah",
+        "E": "Semua jawaban salah"
+      },
+      "answer": "B"
+    },
+    {
+      "number": 7,
+      "question": "Membangun dinamika kelompok dalam organisasi penting untuk:",
+      "options": {
+        "A": "Menjaga solidaritas dalam organisasi",
+        "B": "Menjaga peran dalam organisasi",
+        "C": "Menjaga solidaritas dalam anggota",
+        "D": "Menjaga tujuan dalam organisasi",
+        "E": "Semua jawaban salah"
+      },
+      "answer": "A"
+    },
+    {
+      "number": 8,
+      "question": "Perubahan organisasi akan merubah:",
+      "options": {
+        "A": "Tujuan organisasi",
+        "B": "Aktivitas kegiatan organisasi",
+        "C": "Ukuran (size) organisasi",
+        "D": "Semua jawaban benar",
+        "E": "Semua jawaban salah"
+      },
+      "answer": "D"
+    },
+    {
+      "number": 9,
+      "question": "Budaya organisasi yang baik perlu dipertahankan antara lain melalui:",
+      "options": {
+        "A": "Penetapan pimpinan",
+        "B": "Seleksi alam yang rasional",
+        "C": "Peningkatan kesejahteraan karyawan",
+        "D": "Semua jawaban salah",
+        "E": "Semua jawaban benar"
+      },
+      "answer": "E"
+    },
+    {
+      "number": 10,
+      "question": "Perubahan orientasi organisasi dari era industri ke era society SD adalah:",
+      "options": {
+        "A": "Tujuan",
+        "B": "Sasaran",
+        "C": "Korporate",
+        "D": "Pelayanan service",
+        "E": "Semua jawaban salah"
       },
       "answer": "D"
     },
     {
       "number": 11,
-      "question": "Untuk memastikan manajemen yang efektif, memantau dan mengendalikan semua kegiatan utama yang diadakan di perusahaan. Merupakan fungsi manajemen operasi yang mencakup",
+      "question": "Dengan birokrasi dalam organisasi maka muncul:",
       "options": {
-        "A": "Mengelola Kualitas",
-        "B": "Konfigurasi Rantai Suplai",
-        "C": "Perkiraan Permintaan",
-        "D": "Desain Produk",
-        "E": "Strategi"
+        "A": "Kekuasaan.",
+        "B": "Kelompok",
+        "C": "Konflik",
+        "D": "Semua jawaban benar",
+        "E": "Semua jawaban salah"
       },
-      "answer": "B"
+      "answer": "D"
     },
     {
       "number": 12,
-      "question": "Tingkatan Budaya Organisasi yang sulit untuk diartikan atau dimengerti",
+      "question": "Menciptakan budaya organisasi dilakukan melalui:",
       "options": {
-        "A": "Nilai",
-        "B": "Asumsi dasar",
-        "C": "Menengah",
-        "D": "Akhir",
-        "E": "Artefak"
+        "A": "Merubah tujuan organisasi",
+        "B": "Membuat standar pokok organisasi",
+        "C": "Merubah undang-undang organisasi",
+        "D": "Semua jawaban benar",
+        "E": "Semua jawaban salah"
       },
       "answer": "D"
     },
     {
       "number": 13,
-      "question": "Penggantian mekanisme pasar dengan perencanaan pusat (central planning), merupakan ciri dari sistem ekonomi",
+      "question": "Kepemimpinan yang baik dapat mempengaruhi budaya organisasi, pemimpin yang baik harus:",
       "options": {
-        "A": "Campuran",
-        "B": "Kapitalis",
-        "C": "Komando",
-        "D": "Tertutup",
-        "E": "Syariah"
+        "A": "Memiliki kapasitas yang memadai.",
+        "B": "Mempunyai moral dan karakter yang baik",
+        "C": "Mempunyai visi dan misi yang jelas",
+        "D": "Semua jawaban benar",
+        "E": "Semua jawaban salah"
       },
-      "answer": "C"
+      "answer": "D"
     },
     {
       "number": 14,
-      "question": "Suatu konsepsi mengenai tindakan yang benar dan salah. Merupakan pengertian dari",
+      "question": "Komunikasi yang kurang sehat dalam teamwork yang kurang baik maka:",
       "options": {
-        "A": "Etika Bisnis",
-        "B": "Etika",
-        "C": "Bisnis",
-        "D": "Logika",
-        "E": "Budaya"
+        "A": "Mendorong karyawan bekerja lebih baik.",
+        "B": "Menjadi sumber konflik meskipun karyawan diberikan gaji dan tunjangan yang tinggi.",
+        "C": "Dapat menilai karyawan bekerja lebih baik.",
+        "D": "Semua jawaban benar",
+        "E": "Semua jawaban salah"
       },
       "answer": "B"
     },
     {
       "number": 15,
-      "question": "Praktik administrasi bisnis untuk menciptakan tingkat efisiensi setinggi mungkin dalam suatu organisasi, disebut",
+      "question": "Seorang pemimpin yang mempunyai moral yang baik, mengayomi, dan akhlak yang baik merupakan pemimpin dengan pendekatan:",
       "options": {
-        "A": "Manajemen",
-        "B": "Manajemen Keuangan",
-        "C": "Manajemen Pemasaran",
-        "D": "Manajemen Operasi",
-        "E": "Manajemen Akuntansi"
+        "A": "Moral",
+        "B": "Perilaku",
+        "C": "Kemampuan",
+        "D": "Sosial",
+        "E": "Kekuasaan"
+      },
+      "answer": "B"
+    },
+    {
+      "number": 16,
+      "question": "Ekonomi hijau adalah salah satu implementasi era society SD, karena:",
+      "options": {
+        "A": "Memperhatikan lingkungan",
+        "B": "Memperhatikan alam dan kehidupan masa depan",
+        "C": "Ekonomi hijau adalah kembali ke tradisional",
+        "D": "Jawaban a dan b benar",
+        "E": "Semua jawaban salah"
+      },
+      "answer": "D"
+    },
+    {
+      "number": 17,
+      "question": "Perilaku kelompok berpengaruh penting bagi organisasi karena:",
+      "options": {
+        "A": "Perilaku kelompok mampu mendorong perilaku organisasi",
+        "B": "Perilaku kelompok memberi dampak positif maupun negatif bagi organisasi",
+        "C": "Perilaku kelompok mempengaruhi tujuan organisasi",
+        "D": "Jawaban a dan b benar",
+        "E": "Semua jawaban benar"
+      },
+      "answer": "E"
+    },
+    {
+      "number": 18,
+      "question": "Konflik mempunyai arti yang positif maupun negatif bagi organisasi. Adapun arti positif yaitu:",
+      "options": {
+        "A": "Mendorong pimpinan lebih baik",
+        "B": "Menciptakan iklim kerja yang baik",
+        "C": "Mendorong organisasi bekerja lebih baik dan profesional",
+        "D": "Semua jawaban benar",
+        "E": "Semua jawaban salah"
+      },
+      "answer": "D"
+    },
+    {
+      "number": 19,
+      "question": "Konflik timbul karena:",
+      "options": {
+        "A": "Perbedaan pendapat",
+        "B": "Perbedaan status dan jabatan",
+        "C": "Perbedaan persepsi dalam organisasi",
+        "D": "Semua jawaban benar",
+        "E": "Semua jawaban salah"
+      },
+      "answer": "D"
+    },
+    {
+      "number": 20,
+      "question": "Pemimpin yang berorientasi pada status dalam organisasi dalam menjalankan tugasnya termasuk:",
+      "options": {
+        "A": "Pemimpin status",
+        "B": "Pemimpin birokrasi",
+        "C": "Pemimpin orientasi struktur",
+        "D": "Pemimpin formal/non formal",
+        "E": "Semua jawaban salah"
+      },
+      "answer": "B"
+    },
+    {
+      "number": 21,
+      "question": "Kekuasaan dan birokrasi harus seimbang dan proporsional, karena:",
+      "options": {
+        "A": "Birokrasi harus baik",
+        "B": "Kekuasaan harus bertanggung jawab",
+        "C": "Kekuasaan dan birokrasi harus saling mendorong untuk kinerja organisasi yang baik",
+        "D": "Semua jawaban benar",
+        "E": "Semua jawaban salah"
+      },
+      "answer": "C"
+    },
+    {
+      "number": 22,
+      "question": "Konflik dalam organisasi pasti ada maka pimpinan:",
+      "options": {
+        "A": "Harus tegas dan keras dalam menghadapi konflik.",
+        "B": "Harus bersikap bijaksana dalam menghadapi konflik.",
+        "C": "Harus tegas dan cepat mengambil keputusan",
+        "D": "Semua jawaban benar",
+        "E": "Semua jawaban salah"
+      },
+      "answer": "B"
+    },
+    {
+      "number": 23,
+      "question": "Kemajuan teknologi guna menciptakan efisiensi dalam industri terdapat kekurangan dalam perkembangan aplikasinya yaitu:",
+      "options": {
+        "A": "Teknologi yang tepat guna",
+        "B": "Teknologi yang modern",
+        "C": "Teknologi yang kurang memperhatikan nilai kodrat manusia",
+        "D": "Teknologi yang didukung dengan keseimbangan alam",
+        "E": "Semua jawaban salah"
+      },
+      "answer": "C"
+    },
+    {
+      "number": 24,
+      "question": "Budaya organisasi:",
+      "options": {
+        "A": "Dapat diciptakan melalui penjabaran visi misi.",
+        "B": "Menjadi ciri organisasi dengan nilai-nilai yang baik.",
+        "C": "Jati diri dan nilai yang berkembang dalam organisasi.",
+        "D": "Semua jawaban benar.",
+        "E": "Semua jawaban salah"
+      },
+      "answer": "D"
+    },
+    {
+      "number": 25,
+      "question": "Birokrasi dibutuhkan dalam organisasi karena:",
+      "options": {
+        "A": "Dapat mendistribusikan tugas dan wewenang organisasi",
+        "B": "Dapat bekerja bersama",
+        "C": "Dapat lebih fokus dalam kerja",
+        "D": "Semua jawaban benar",
+        "E": "Semua jawaban salah"
+      },
+      "answer": "D"
+    },
+    {
+      "number": 26,
+      "question": "Kelompok muncul menurut teori kelompok karena:",
+      "options": {
+        "A": "Ada dua orang atau lebih",
+        "B": "Berkedudukan yang sama",
+        "C": "Mempunyai kerugian serta pemenuhan kebutuhan yang sama",
+        "D": "Mempunyai tujuan yang sama",
+        "E": "Semua jawaban benar"
+      },
+      "answer": "D"
+    },
+    {
+      "number": 27,
+      "question": "Salah satu perubahan organisasi yang disengaja adalah:",
+      "options": {
+        "A": "Organisasi perusahaan dan pendidikan",
+        "B": "Organisasi sosial",
+        "C": "Organisasi keagamaan",
+        "D": "Semua jawaban benar",
+        "E": "Semua jawaban salah"
+      },
+      "answer": "A"
+    },
+    {
+      "number": 28,
+      "question": "Konflik bagi organisasi:",
+      "options": {
+        "A": "Harus dihilangkan",
+        "B": "Harus dihindari",
+        "C": "Harus cari solusi",
+        "D": "Harus diciptakan",
+        "E": "Semua jawaban benar"
+      },
+      "answer": "A"
+    },
+    {
+      "number": 29,
+      "question": "Budaya organisasi penting bagi organisasi karena:",
+      "options": {
+        "A": "Budaya organisasi mencerminkan nilai-nilai positif yang dikembangkan",
+        "B": "Budaya organisasi sesuai dengan keinginan pimpinan.",
+        "C": "Budaya organisasi merupakan kesepakatan bersama dari standar pokok organisasi",
+        "D": "Jawaban a dan c benar",
+        "E": "Semua jawaban benar"
+      },
+      "answer": "D"
+    },
+    {
+      "number": 30,
+      "question": "Sumber kekuasaan yang legitimate, ciri-cirinya:",
+      "options": {
+        "A": "Organisasinya formal",
+        "B": "Proses standar",
+        "C": "Periodesasinya jelas",
+        "D": "Semua jawaban benar",
+        "E": "Semua jawaban salah"
+      },
+      "answer": "D"
+    },
+    {
+      "number": 31,
+      "question": "Ketergantungan yang tinggi terhadap pimpinan adalah:",
+      "options": {
+        "A": "Baik demi loyalitas bawahan",
+        "B": "Baik untuk menjaga teamwork",
+        "C": "Akses negatif dari birokrasi",
+        "D": "Akses positif dari birokrasi",
+        "E": "Semua jawaban benar"
+      },
+      "answer": "E"
+    },
+    {
+      "number": 32,
+      "question": "Dalam organisasi formal maka kelompok dalam organisasi tersebut:",
+      "options": {
+        "A": "Kelompok formal saja",
+        "B": "Kelompok individu",
+        "C": "Kelompok formal dan kelompok non formal",
+        "D": "Kelompok formal dan kelompok individu",
+        "E": "Semua benar"
+      },
+      "answer": "C"
+    },
+    {
+      "number": 33,
+      "question": "Kemajuan teknologi mampu merubah organisasi karena:",
+      "options": {
+        "A": "Teknologi dapat merubah pola interaksi dan kegiatan organisasi",
+        "B": "Teknologi mempermudah komunikasi",
+        "C": "Komunikasi mempermudah kerja pimpinan",
+        "D": "Semua jawaban benar",
+        "E": "Semua jawaban salah"
+      },
+      "answer": "D"
+    },
+    {
+      "number": 34,
+      "question": "Kepribadian yang baik serta integritas seseorang pemimpin:",
+      "options": {
+        "A": "Menunjukkan intelektual dan pengalaman.",
+        "B": "Menunjukkan kepemimpinan yang peka dan bertanggung jawab.",
+        "C": "Menunjukkan kepemimpinan otoriter",
+        "D": "Menunjukkan kepemimpinan bengis",
+        "E": "Semua jawaban salah"
+      },
+      "answer": "B"
+    },
+    {
+      "number": 35,
+      "question": "Nilai-nilai yang baik dalam organisasi akan mampu mendorong:",
+      "options": {
+        "A": "Pencapaian tujuan organisasi dengan lebih baik.",
+        "B": "Membangun motivasi dan integritas pegawai.",
+        "C": "Membangun profesionalitas pegawai.",
+        "D": "Semua jawaban benar.",
+        "E": "Semua jawaban salah."
       },
       "answer": "A"
     }
