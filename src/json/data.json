@@ -130,7 +130,7 @@
         "D": "Semua jawaban benar",
         "E": "Semua jawaban salah"
       },
-      "answer": "D"
+      "answer": "B"
     },
     {
       "number": 12,
@@ -142,7 +142,7 @@
         "D": "Semua jawaban benar",
         "E": "Semua jawaban salah"
       },
-      "answer": "E"
+      "answer": "D"
     },
     {
       "number": 13,
@@ -238,7 +238,7 @@
         "D": "Pemimpin formal/non formal",
         "E": "Semua jawaban salah"
       },
-      "answer": "B"
+      "answer": "C"
     },
     {
       "number": 21,
@@ -334,7 +334,7 @@
         "D": "Harus diciptakan",
         "E": "Semua jawaban benar"
       },
-      "answer": "A"
+      "answer": "C"
     },
     {
       "number": 29,
